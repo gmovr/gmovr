@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 My name is Even Tobiesen
+I'm a software engineer from Barcelona, Spain. Currently I'm working as a team lead at [Automattic](https://automattic.com). I like writing PHP,  Javascript/Typescript and Python, but also try to learn new languages here and there.
+
+You can reach me via [Linkedin](https://www.linkedin.com/in/eventobiesen/)
 
 <!--
 **gmovr/gmovr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
