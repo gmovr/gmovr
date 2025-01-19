@@ -1,4 +1,4 @@
-### 👋 My name is Even Tobiesen
+### 👋 My name is Evan Tobiesen
 I’m Evan Tobiesen. I lead software projects at Automattic, focusing on growth, hiring, and MarTech for WordPress.com.
 
 I’m into home automation, building cool stuff (in code or otherwise), cars, and finding excuses to travel. Originally from Norway, I’ve lived in exile near Barcelona with my wife for over a decade.
