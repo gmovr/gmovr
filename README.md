@@ -3,6 +3,8 @@ I’m Evan Tobiesen. I lead software projects at Automattic, focusing on growth,
 
 I’m into home automation, building cool stuff (in code or otherwise), cars, and finding excuses to travel. Originally from Norway, I’ve lived in exile near Barcelona with my wife for over a decade.
 
+Some of the countries I've visited: 🇦🇱 🇦🇩 🇦🇷 🇧🇪 🇧🇿 🇧🇷 🇨🇳 🇭🇷 🇨🇺 🇨🇿 🇩🇰 🇪🇬 🇪🇪 🇫🇮 🇫🇷 🇩🇪 🇬🇮 🇬🇷 🇬🇹 🇭🇺 🇮🇸 🇮🇩 🇮🇱 🇮🇹 🇰🇪 🇱🇻 🇱🇺 🇲🇹 🇲🇽 🇳🇱 🇳🇴 🇵🇸 🇵🇱 🇵🇹 🇷🇴 🇷🇼 🇪🇸 🇸🇪 🇨🇭 🇹🇭 🇹🇳 🇹🇷 🇺🇬 🇦🇪 🇬🇧 🇺🇸 🇺🇾 🇻🇦 🇯🇵 🇨🇩
+
 I enjoy writing code in most languages, with varying levels of proficiency, from PHP to Python, TS and Go.
 
 You can reach me via [Linkedin](https://www.linkedin.com/in/eventobiesen/)
