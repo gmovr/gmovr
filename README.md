@@ -1,5 +1,9 @@
 ### 👋 My name is Even Tobiesen
-I'm a software engineer from Barcelona, Spain. Currently I'm working as a team lead at [Automattic](https://automattic.com). I like writing PHP,  Javascript/Typescript and Python, but also try to learn new languages here and there.
+I’m Evan Tobiesen. I lead software projects at Automattic, focusing on growth, hiring, and MarTech for WordPress.com.
+
+I’m into home automation, building cool stuff (in code or otherwise), cars, and finding excuses to travel. Originally from Norway, I’ve lived in exile near Barcelona with my wife for over a decade.
+
+I enjoy writing code in most languages, with varying levels of proficiency, from PHP to Python, TS and Go.
 
 You can reach me via [Linkedin](https://www.linkedin.com/in/eventobiesen/)
 
